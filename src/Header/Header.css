@@ -1,0 +1,17 @@
+.title-container{
+    text-align: center;
+    color:honeydew;
+    margin-top: 5px;
+
+}
+
+.link{
+    color: lavender;
+    margin: 20px;
+    padding: 20px;
+    font-size: 170%;
+}
+.navItems{
+    position: relative;
+    left: 150px;
+}
